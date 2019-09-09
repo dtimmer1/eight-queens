@@ -1,6 +1,6 @@
 #Eight Queens
 
-Uses a simple genetic algorithm to generate solutions for the "Eight Queens" puzzle.
+Uses a simple genetic algorithm to generate solutions for the "Eight Queens" problem.
 
 ##Background
 
