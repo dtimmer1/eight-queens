@@ -1,8 +1,8 @@
-#Eight Queens
+# Eight Queens
 
 Uses a simple genetic algorithm to generate solutions for the "Eight Queens" problem.
 
-##Background
+## Background
 
 The Eight Queens puzzle is often used as a test of algorithm effectiveness  The question is simple - given an n x n chessboard, construct a position with n queens on the board such that no two queens attack each other (i.e. no two queens are on the same row, column, or diagonal).
 
